@@ -1,5 +1,10 @@
-# The Statistical Trends of Protein Evolution
-Data and code related to the paper "The Statistical Trends of Protein Evolution: A Lesson from AlphaFold Database".
+# The Statistical Trends of Protein Evolution: A Lesson from AlphaFold Database
+
+Authors: Qian-Yuan Tang, Weitong Ren, Jun Wang, Kunihiko Kaneko
+
+Data and code related to the paper "The Statistical Trends of Protein Evolution: A Lesson from AlphaFold Database" (under review).
+
+The recent version of the paper can be found at: <https://www.biorxiv.org/content/10.1101/2022.04.07.487447>
 
 - The data and code will be available before the acceptance of the paper.
 
