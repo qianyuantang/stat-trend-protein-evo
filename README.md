@@ -2,9 +2,7 @@
 
 Authors: Qian-Yuan Tang, Weitong Ren, Jun Wang, Kunihiko Kaneko
 
-Data and code related to the paper "The Statistical Trends of Protein Evolution: A Lesson from AlphaFold Database" (accepted by *Mol. Biol. Evol.*).
-
-The recent version of the paper can be found at: <https://www.biorxiv.org/content/10.1101/2022.04.07.487447>
+Data and code related to the paper "The Statistical Trends of Protein Evolution: A Lesson from AlphaFold Database"  (<https://doi.org/10.1093/molbev/msac197>).
 
 - The 'Code' folder include the Jupyter Notebook (Python) to reproduce this research. 
 
